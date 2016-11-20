@@ -4,7 +4,7 @@ Require the module
 ```sh
 var fuelPrice = require('fuel-price-calculator');
 ```
-Calculate the price of the following 
+##Calculate the price of the following: 
 
 Trip cost MPG
 ```sh
