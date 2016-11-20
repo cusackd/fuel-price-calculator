@@ -6,6 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "David Cusack",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cusackd/fuel-price-calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "fuel",
+    "mpg",
+    "lp100km",
+    "price",
+    "trip"
+  ],
+  "bugs": {
+    "url": "https://github.com/cusackd/fuel-price-calculator/issues"
+  },
+  "author": "David Cusack <dave@davidcusack.com> (http://davidcusack.com/)",
   "license": "ISC"
 }
